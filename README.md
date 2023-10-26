@@ -11,6 +11,7 @@ this script categorises files to 5 categories:
 
 also this script wont touch your previous folders or delete them so they are all SAFE.
 
-download .py file and run it.(you will need to have any version of python insltalled on your system. 
-if you dont have pyhton installed check the click the link to install it from directly microsoft store)
+download .py file and just edit the directory path at line 6 save and run it.(you will need to have any 
+version of python insltalled on your system. if you dont have pyhton installed check the click the link 
+to install it from directly microsoft store)
 [Python 3.12 (Latest Version)](https://apps.microsoft.com/detail/python-3-12/9NCVDN91XZQP?hl=tr-tr&gl=TR)

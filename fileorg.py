@@ -3,7 +3,8 @@ import time
 import os
 
 #directory thats being used
-direcory = "C:/Users/fatih/Downloads"
+#put your pcs name in the -name- without the --
+direcory = "C:/Users/-name-/Downloads"
 
 categories = {
     'Images': ['.jpeg', '.jpg', '.tiff', '.gif', '.bmp', '.png', '.bpg', 'svg'],
@@ -13,6 +14,9 @@ categories = {
 }
 for category in ['Images', 'Videos', 'Pdfs', 'Documents']:
     os.makedirs(os.path.join(direcory, category), exist_ok=True)
+
+#this was supposed to be an easy task man why it has bugs???
+#i think the bug i have rn is in my def function will check soon
 
 #function to classify files
 def classify_file(filename):

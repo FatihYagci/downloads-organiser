@@ -3,10 +3,10 @@ tired of your downloads folder filling to the brim, dont want to spend time on i
 
 easy script. that categorises your files in the downloads folder.
 this script categorises files to 5 categories:
-1-Images
-2-Videos
-3-Documents
-4-Zips
+1-Images, 
+2-Videos, 
+3-Documents, 
+4-Zips, 
 5-Pdfs
 
 also this script wont touch your previous folders or delete them so they are all SAFE.
